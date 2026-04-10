@@ -22,6 +22,14 @@ I'm an undergraduate at the **University of Kelaniya**, pursuing a Bachelor's de
 
 ---
 
+## 📂 Projects
+
+| Project | Description | Tools Used |
+|---|---|---|
+| [Home Lab Network Simulation](https://github.com/SandeepDiluksha/home-lab-network-simulation) | Designed and simulated a small office network with VLAN segmentation, 802.1Q trunking, router-on-a-stick inter-VLAN routing, and DHCP | Cisco Packet Tracer, Cisco IOS |
+
+---
+
 ## 🛠️ Skills & Tools
 
 **Languages**
