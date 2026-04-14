@@ -28,6 +28,7 @@ I'm an undergraduate at the **University of Kelaniya**, pursuing a Bachelor's de
 |---|---|---|
 | [Home Lab Network Simulation](https://github.com/SandeepDiluksha/home-lab-network-simulation) | Designed and simulated a small office network with VLAN segmentation, 802.1Q trunking, router-on-a-stick inter-VLAN routing, and DHCP | Cisco Packet Tracer, Cisco IOS |
 | [Python Network Scanner](https://github.com/SandeepDiluksha/python-network-scanner) | Threaded subnet scanner with host discovery and port detection built in Python | Python, socket, threading |
+| [Wireshark Traffic Analysis](https://github.com/SandeepDiluksha/wireshark-traffic-analysis) | Captured and analyzed TCP, DNS, ARP, ICMP and HTTP traffic with detailed write-up | Wireshark, Linux |
 
 ---
 
