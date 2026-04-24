@@ -1,14 +1,14 @@
 # Hi, I'm Sandeep Diluksha Bandara Nilwakka 👋
 
-I'm an undergraduate at the **University of Kelaniya**, pursuing a Bachelor's degree in Computer Science with a specialization in **Cybersecurity**. I'm based in Kandy, Sri Lanka, and I'm actively building hands-on skills in networking and security with the goal of starting my career as a **Network Engineering** or **Penetration Testing** intern.
+I'm an undergraduate at the **University of Kelaniya**, pursuing a Bachelor's degree in Computer Science with a specialization in **Cybersecurity**. I'm based in Kandy, Sri Lanka, and I'm actively building hands-on skills in networking and security with the goal of starting my career as a **Network Engineer**
 
 ---
 
 ## 🎯 Currently
 
-- 🔨 Building a hands-on networking project portfolio (VLANs, DNS, traffic analysis, monitoring)
+- - 🔨 Portfolio completed — 5 networking projects covering VLANs, Python scripting,
+  traffic analysis, DNS/firewall, and cloud monitoring
 - 📖 Deepening my knowledge in network security and ethical hacking
-- 🔍 Open to **internship opportunities** in network engineering and penetration testing
 
 ---
 
