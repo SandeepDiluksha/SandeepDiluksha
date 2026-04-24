@@ -6,7 +6,7 @@ I'm an undergraduate at the **University of Kelaniya**, pursuing a Bachelor's de
 
 ## 🎯 Currently
 
-- - 🔨 Portfolio completed — 5 networking projects covering VLANs, Python scripting,
+- 🔨 Portfolio completed — 5 networking projects covering VLANs, Python scripting,
   traffic analysis, DNS/firewall, and cloud monitoring
 - 📖 Deepening my knowledge in network security and ethical hacking
 
