@@ -30,6 +30,7 @@ I'm an undergraduate at the **University of Kelaniya**, pursuing a Bachelor's de
 | [Python Network Scanner](https://github.com/SandeepDiluksha/python-network-scanner) | Threaded subnet scanner with host discovery and port detection built in Python | Python, socket, threading |
 | [Wireshark Traffic Analysis](https://github.com/SandeepDiluksha/wireshark-traffic-analysis) | Captured and analyzed TCP, DNS, ARP, ICMP and HTTP traffic with detailed write-up | Wireshark, Linux |
 | [Pi-hole DNS Server + Firewall](https://github.com/SandeepDiluksha/pihole-dns-firewall) | Self-hosted DNS server on Oracle Cloud with custom iptables firewall rules | Pi-hole, iptables, Oracle Cloud, Linux |
+| [Network Monitoring Dashboard](https://github.com/SandeepDiluksha/network-monitoring-dashboard) | Real time monitoring stack with Prometheus, Node Exporter and Grafana on Oracle Cloud | Prometheus, Grafana, Linux, Oracle Cloud |
 
 ---
 
