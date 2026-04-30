@@ -8,6 +8,7 @@ I'm an undergraduate at the **University of Kelaniya**, pursuing a Bachelor's de
 
 - 🔨 Portfolio completed — 5 networking projects covering VLANs, Python scripting,
   traffic analysis, DNS/firewall, and cloud monitoring
+- 📖 Progressing through Fortinet NSE certifications — FCF complete, working toward FCA
 - 📖 Deepening my knowledge in network security and ethical hacking
 
 ---
@@ -17,6 +18,7 @@ I'm an undergraduate at the **University of Kelaniya**, pursuing a Bachelor's de
 | Certificate | Issuer |
 |---|---|
 | CompTIA Security+ (SY0-701) | CompTIA |
+| Fortinet Certified Fundamentals (FCF) | Fortinet NSE Training Institute |
 | Networking Basics | Cisco NetAcad |
 | Introduction to IoT | Cisco NetAcad |
 
